@@ -2,6 +2,8 @@ import '@/styles/global.css';
 
 import type { Metadata } from 'next';
 
+import { Main } from '@/templates/Main';
+
 export const metadata: Metadata = {
   icons: [
     {
@@ -36,7 +38,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <Main>{children}</Main>
+      </body>
     </html>
   );
 }
