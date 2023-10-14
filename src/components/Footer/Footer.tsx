@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function Footer() {
   return (
-    <footer className="m-4 rounded-lg bg-white">
+    <footer className="mt-4 bg-white">
       <div className="main-container py-4 md:flex md:items-center md:justify-between">
         <span className="text-sm sm:text-center">
           © 2023. All Rights Reserved.
