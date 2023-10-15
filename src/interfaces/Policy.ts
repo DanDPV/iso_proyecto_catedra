@@ -5,3 +5,10 @@ export interface IPolicy {
   lastUpdateDate: string;
   lastRevision: number;
 }
+
+export interface IPolicyRevision {
+  id: number;
+  policyId: string;
+  date: string;
+  content: string;
+}
