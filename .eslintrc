@@ -67,7 +67,8 @@
         ],
         "no-restricted-exports": 0,
         "@next/next/no-img-element": 0,
-        "jsx-a11y/anchor-is-valid": 0
+        "jsx-a11y/anchor-is-valid": 0,
+        "jsx-a11y/label-has-associated-control": 0
       }
     },
     // Configuration for testing
