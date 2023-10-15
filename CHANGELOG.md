@@ -1,3 +1,24 @@
+# 1.0.0 (2023-10-15)
+
+
+### Bug Fixes
+
+* **release.yml:** use github internal GITHUB_TOKEN ([5b936f8](https://github.com/DanDPV/iso_proyecto_catedra/commit/5b936f8963727283c2cbf1e66c86f63eaceda150))
+
+
+### Features
+
+* **api/policies/id:** add mock endpoint ([9270dc5](https://github.com/DanDPV/iso_proyecto_catedra/commit/9270dc565dcb4cfb8e636d9e4d540aacc922eb1a))
+* **api/policies:** return mock data from endpoint ([d042bfe](https://github.com/DanDPV/iso_proyecto_catedra/commit/d042bfe042e6b9098cbe29f50ad189916b55ffea))
+* **Footer:** add component ([e099e5b](https://github.com/DanDPV/iso_proyecto_catedra/commit/e099e5b3b4b5ba67aced4d82126a5def09a7df7d))
+* **Navbar:** add component ([888b10d](https://github.com/DanDPV/iso_proyecto_catedra/commit/888b10d459d6bc32ddfee97dd3cc9482a3a98607))
+* **PolicyDetail:** add client component ([7277a40](https://github.com/DanDPV/iso_proyecto_catedra/commit/7277a403ed0c2fb2c8fd07ccfd0a33c17a00e894))
+* **PolicyDetailPage:** add policy page ([59ba263](https://github.com/DanDPV/iso_proyecto_catedra/commit/59ba2631b9292608475e22cb5a0333eebb138aef))
+* **PolicyTable:** add component ([a276dec](https://github.com/DanDPV/iso_proyecto_catedra/commit/a276dec03d7f2fe08d6f177dbf90c1deef531278))
+* **RootPage:** add the list of policies ([eb3a23c](https://github.com/DanDPV/iso_proyecto_catedra/commit/eb3a23c28656bdef4fb8bf6000137ee62aecb531))
+* **usePolicyDetails:** add custom hook ([c7df10e](https://github.com/DanDPV/iso_proyecto_catedra/commit/c7df10eb32ca8ef61ee6e5477fcba29f156d3450))
+* **usePolicyList:** add custom hook ([813233e](https://github.com/DanDPV/iso_proyecto_catedra/commit/813233e7b2513e21c6550fcc23494ee90301ad27))
+
 # [3.23.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.22.0...v3.23.0) (2023-10-12)
 
 
